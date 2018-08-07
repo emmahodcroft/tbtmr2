@@ -347,85 +347,57 @@
   },
   "geo": {
     "country": {
-      "australia": {
-        "latitude": -24.7761086,
-        "longitude": 134.755
+      "russia": {
+        "latitude": 64.6863136,
+        "longitude": 97.7453061
+      },
+      "kenya": {
+        "latitude": 1.0,
+        "longitude": 38.0
+      },
+      "nepal": {
+        "latitude": 28.0,
+        "longitude": 84.0
       },
       "nigeria": {
         "latitude": 10.0,
         "longitude": 8.0
       },
-      "tanzania": {
-        "latitude": -6.0,
-        "longitude": 35.0
+      "portugal": {
+        "latitude": 39.6945,
+        "longitude": -8.13057
       },
-      "peru": {
-        "latitude": -10.0,
-        "longitude": -75.25
+      "romania": {
+        "latitude": 46.0,
+        "longitude": 25.0
       },
-      "switzerland": {
-        "latitude": 47.00016,
-        "longitude": 8.01427
-      },
-      "cote_d_ivoire": {
-        "latitude": 7.9897371,
-        "longitude": -5.5679457
-      },
-      "mali": {
-        "latitude": 18.0,
-        "longitude": -2.0
-      },
-      "south_korea": {
-        "latitude": 35.3985008,
-        "longitude": 127.93711100000002
-      },
-      "belarus": {
-        "latitude": 53.0,
-        "longitude": 28.0
-      },
-      "ghana": {
-        "latitude": 8.0300284,
-        "longitude": -1.080027
-      },
-      "uganda": {
-        "latitude": 1.5333554,
-        "longitude": 32.2166578
-      },
-      "sweden": {
-        "latitude": 59.6749712,
-        "longitude": 14.5208584
-      },
-      "iran": {
-        "latitude": 32.0,
-        "longitude": 53.0
-      },
-      "new_zealand": {
-        "latitude": -41.500083,
-        "longitude": 172.8344077
+      "vietnam": {
+        "latitude": 16.16667,
+        "longitude": 107.83333
       },
       "ethiopia": {
         "latitude": 9.0,
         "longitude": 39.5
       },
+      "cote_d_ivoire": {
+        "latitude": 7.9897371,
+        "longitude": -5.5679457
+      },
+      "iran": {
+        "latitude": 32.0,
+        "longitude": 53.0
+      },
       "united_kingdom": {
         "latitude": 51.50853,
         "longitude": -0.12574
       },
-      "germany": {
-        "latitude": 51.0834196,
-        "longitude": 10.4234469
+      "spain": {
+        "latitude": 40.0028028,
+        "longitude": -4.0031039
       },
-      "norway": {
-        "latitude": 64.574131,
-        "longitude": 11.5270102892
-      },
-      "djibouti": {
-        "latitude": 11.58901,
-        "longitude": 43.14503
-      },
-      "vietnam": {
-        "latitude": 16.16667,
-        "longitude": 107.83333
+      "pakistan": {
+        "latitude": 30.0,
+        "longitude": 70.0
       },
       "usa": {
         "latitude": 39.7837304,
@@ -435,119 +407,147 @@
         "latitude": -13.703325,
         "longitude": 34.083569
       },
-      "democratic_republic_of_the_congo": {
-        "latitude": -2.9814,
-        "longitude": 23.8222
-      },
-      "india": {
-        "latitude": 22.3511148,
-        "longitude": 78.6677428
-      },
-      "russia": {
-        "latitude": 64.6863136,
-        "longitude": 97.7453061
-      },
-      "sierra_leone": {
-        "latitude": 8.5,
-        "longitude": -11.5
-      },
-      "south_africa": {
-        "latitude": -28.8166235,
-        "longitude": 24.99163900000001
-      },
-      "gambia": {
-        "latitude": 13.5,
-        "longitude": -15.5
-      },
-      "portugal": {
-        "latitude": 39.6945,
-        "longitude": -8.13057
-      },
-      "canada": {
-        "latitude": 61.0666922,
-        "longitude": -107.991707
-      },
-      "pakistan": {
-        "latitude": 30.0,
-        "longitude": 70.0
+      "uganda": {
+        "latitude": 1.5333554,
+        "longitude": 32.2166578
       },
       "argentina": {
         "latitude": -34.0,
         "longitude": -64.0
       },
-      "taiwan": {
-        "latitude": 23.9739374,
-        "longitude": 120.9820179
+      "belarus": {
+        "latitude": 53.0,
+        "longitude": 28.0
       },
-      "netherlands": {
-        "latitude": 52.2379891,
-        "longitude": 5.534607381619999
-      },
-      "uzbekistan": {
-        "latitude": 41.66667,
-        "longitude": 63.83333
-      },
-      "thailand": {
-        "latitude": 14.8971921,
-        "longitude": 100.83273
-      },
-      "romania": {
-        "latitude": 46.0,
-        "longitude": 25.0
-      },
-      "kenya": {
-        "latitude": 1.0,
-        "longitude": 38.0
+      "australia": {
+        "latitude": -24.7761086,
+        "longitude": 134.755
       },
       "botswana": {
         "latitude": -22.199114,
         "longitude": 24.017975
       },
-      "spain": {
-        "latitude": 40.0028028,
-        "longitude": -4.0031039
+      "norway": {
+        "latitude": 64.574131,
+        "longitude": 11.5270102892
       },
-      "nepal": {
-        "latitude": 28.0,
-        "longitude": 84.0
+      "germany": {
+        "latitude": 51.0834196,
+        "longitude": 10.4234469
+      },
+      "south_africa": {
+        "latitude": -28.8166235,
+        "longitude": 24.99163900000001
+      },
+      "netherlands": {
+        "latitude": 52.2379891,
+        "longitude": 5.534607381619999
+      },
+      "canada": {
+        "latitude": 61.0666922,
+        "longitude": -107.991707
+      },
+      "india": {
+        "latitude": 22.3511148,
+        "longitude": 78.6677428
+      },
+      "taiwan": {
+        "latitude": 23.9739374,
+        "longitude": 120.9820179
+      },
+      "ghana": {
+        "latitude": 8.0300284,
+        "longitude": -1.080027
+      },
+      "mali": {
+        "latitude": 18.0,
+        "longitude": -2.0
+      },
+      "democratic_republic_of_the_congo": {
+        "latitude": -2.9814,
+        "longitude": 23.8222
+      },
+      "south_korea": {
+        "latitude": 35.3985008,
+        "longitude": 127.93711100000002
+      },
+      "uzbekistan": {
+        "latitude": 41.66667,
+        "longitude": 63.83333
+      },
+      "djibouti": {
+        "latitude": 11.58901,
+        "longitude": 43.14503
+      },
+      "gambia": {
+        "latitude": 13.5,
+        "longitude": -15.5
+      },
+      "switzerland": {
+        "latitude": 47.00016,
+        "longitude": 8.01427
+      },
+      "sierra_leone": {
+        "latitude": 8.5,
+        "longitude": -11.5
+      },
+      "sweden": {
+        "latitude": 59.6749712,
+        "longitude": 14.5208584
+      },
+      "new_zealand": {
+        "latitude": -41.500083,
+        "longitude": 172.8344077
+      },
+      "tanzania": {
+        "latitude": -6.0,
+        "longitude": 35.0
+      },
+      "peru": {
+        "latitude": -10.0,
+        "longitude": -75.25
+      },
+      "thailand": {
+        "latitude": 14.8971921,
+        "longitude": 100.83273
       }
     },
     "region": {
+      "japan_korea": {
+        "latitude": 35.845119,
+        "longitude": 136.736386
+      },
       "europe": {
         "latitude": 49.646237,
         "longitude": 10.799454
-      },
-      "south_america": {
-        "latitude": -13.083583,
-        "longitude": -58.470721
-      },
-      "south_asia": {
-        "latitude": 24.485438,
-        "longitude": 76.51315799999998
-      },
-      "west_asia": {
-        "latitude": 34.000094,
-        "longitude": 48.73228
-      },
-      "southeast_asia": {
-        "latitude": 3.020567,
-        "longitude": 112.390683
-      },
-      "north_america": {
-        "latitude": 28.2367447,
-        "longitude": -97.738017
-      },
-      "africa": {
-        "latitude": 4.070194,
-        "longitude": 21.824559
       },
       "oceania": {
         "latitude": -25.0562891,
         "longitude": 152.008576
       },
-      "japan_korea": {
-        "latitude": 35.845119,
-        "longitude": 136.736386
+      "southeast_asia": {
+        "latitude": 3.020567,
+        "longitude": 112.390683
+      },
+      "west_asia": {
+        "latitude": 34.000094,
+        "longitude": 48.73228
+      },
+      "africa": {
+        "latitude": 4.070194,
+        "longitude": 21.824559
+      },
+      "south_asia": {
+        "latitude": 24.485438,
+        "longitude": 76.51315799999998
+      },
+      "north_america": {
+        "latitude": 28.2367447,
+        "longitude": -97.738017
+      },
+      "south_america": {
+        "latitude": -13.083583,
+        "longitude": -58.470721
       }
     }
   },
